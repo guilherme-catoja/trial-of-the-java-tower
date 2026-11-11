@@ -1,0 +1,11 @@
+#0;room4.txt
+W0G  G    1
+WWWWWWWWWS
+ c      mS1
+SWtt    WS
+S        S1
+SWWWWW  WW
+S        c1
+WWWWWWWSWW
+c      S H1
+WWWWWWWWWW

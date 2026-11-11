@@ -1,0 +1,11 @@
+#0;room6.txt
+     G   01
+SWWWWWWWWW1
+Sg  c  c  1
+S         1
+SW  W  W  1
+         S1
+H        W1
+WS W W W  1
+ S        1
+WWtWtWtWtt1

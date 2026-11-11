@@ -1,0 +1,6 @@
+Chara: 9999
+bob: 5990
+Freddy: 1987
+Will it save?: 983
+IT SAVED!!!: 976
+null: 0

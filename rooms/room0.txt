@@ -1,0 +1,11 @@
+#0;room1.txt (meti o 1 porque sem o 1 os espaços depois do J, S e s desapareciam sempre que se corria o programa)
+0 G       1
+WWWWWWWSWW
+       S  1
+tWSWWWWWWW
+  S      c1
+WWWWSWWWWW
+    S  s  1
+WWWWWSWWWW
+c    S J  1
+WWWWWWWWWW

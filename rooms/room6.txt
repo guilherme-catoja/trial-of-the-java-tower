@@ -1,0 +1,11 @@
+FinalLevel
+    P     1
+SWWWWWWWWS1
+S c    c S1
+S  G     S1
+SWtWWWWtWS1
+S c    c S1
+S     G  S1
+WStWWWWtSW1
+WS  H   SW1
+WWWWWWWWWW
